@@ -2,8 +2,8 @@
 
 # Day 10 Lab: Data Pipeline & Data Observability
 
-**Student Email:** email@example.com
-**Name:** (Dien ten cua ban)
+**Student Email:** adung2912d03@gmail.com
+**Name:** Nguyen Duc Dung
 
 ---
 
